@@ -5,4 +5,4 @@ Please [add a post](https://github.com/AccessibleReadingTechnologies/AccessRevie
 This is the GitHub repo of a proposed W3C Community Group, with the idea being to evaluate, discuss, and publish reviews of various accessible technologies, particularly those involving web content.
 
 <br><br>
-<img src="./images/ARTlogoReview.png" width="640" alt="ART Logo and Accessible Technology Review Group">
+<img src="./images/ARTlogo03Review.png" width="640" alt="ART Logo and Accessible Technology Review Group">
